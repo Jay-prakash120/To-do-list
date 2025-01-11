@@ -25,8 +25,7 @@ Installation
 
 1. Clone this repository:
 
-https://github.com/<Jay-prakash120>/task-manager.git
-
+https://github.com/Jay-prakash120/To-do-list
 
 2. Navigate to the project directory:
 
